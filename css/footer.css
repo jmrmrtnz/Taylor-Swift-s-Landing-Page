@@ -1,0 +1,30 @@
+footer{
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+.footer-container{
+    max-width: 1300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 30%;
+    height: auto;
+}
+.social-media{
+    margin: 20px 0;
+}
+.social-media a{
+    color: #001e21;
+    margin-right: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    transition: linear .3s;
+}
+.social-media a:hover{
+    color: #fc5c65;
+}
+.left-col p{
+    font-size: 20px;
+}
